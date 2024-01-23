@@ -1,0 +1,61 @@
+.logo{
+            color: orange;
+            text-align: center;
+        }
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+            float:none;
+
+        }
+         li a {
+            padding: 30px;
+            color: beige;
+            display: block;
+            text-decoration: none;
+        }
+        li a:hover
+        {
+      color: chocolate;
+        }
+        body{
+            background-image: url("landscape-3509713_1920.jpg");
+            background-repeat: no-repeat;
+            color: white;
+
+        }
+        h2{
+            color: lawngreen;
+        }
+        .form{
+            border-radius: 10px;
+            margin: 2px;
+            padding: 25px;
+            color: black;
+            text-align: center;
+            position: absolute;background-color: white;
+        }
+        li{
+            float: left;
+        }
+        .form input{
+            width: 240px;
+            height: 35px;
+            background: transparent;
+            border: 1px solid orange;
+            border-right: none;
+            border-left: none;
+            color: black;
+            font-size: 15px;
+            letter-spacing: 1px;
+            margin-top: 30px;
+        }
+        .cn{
+            background: orange;
+            font-size: 25px;
+            border-radius: 18px;
+            border: none;
+        }
